@@ -32,5 +32,11 @@ var data = [
                          .run()
 
 ```
-* [ ] User will see grid with all the information she/he passed
-* [ ] Grid will have paging
+
+
+## Chart types
+
+* [ ] Grid
+  * [ ] Paging
+* [ ] Bar chart
+  * [ ] Clickable bars
